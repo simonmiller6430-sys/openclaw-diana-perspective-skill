@@ -14,17 +14,19 @@
 ## 仓库内容
 
 ```text
-.
+openclaw-diana-perspective-skill/
 ├─ diana-perspective/
 │  ├─ SKILL.md
 │  ├─ CHANGELOG_20260419_v2.md
 │  ├─ OPENCLAW_INTEGRATION_NOTES_20260419_v2.md
-│  └─ references/research/
-├─ DISCLAIMER.md
+│  └─ references/
+├─ docs/
+│  ├─ CONTRIBUTING.md
+│  ├─ DISCLAIMER.md
+│  ├─ RELEASE_NOTES_v1.0.0.md
+│  └─ PUBLISH_CHECKLIST.md
 ├─ LICENSE.md
-├─ CONTRIBUTING.md
-├─ RELEASE_NOTES_v1.0.0.md
-└─ PUBLISH_CHECKLIST.md
+└─ README.md
 ```
 
 ## 角色目标
