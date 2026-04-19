@@ -13,20 +13,17 @@
 
 ## 仓库内容
 
-```text
-openclaw-diana-perspective-skill/
-├─ diana-perspective/
-│  ├─ SKILL.md
-│  ├─ CHANGELOG_20260419_v2.md
+```textopenclaw-diana-perspective-skill/
+├─ diana-perspective/                     # skill 本体
+│  ├─ SKILL.md                           # 核心角色蒸馏文件
+│  ├─ CHANGELOG_20260419_v2.md           # 更新记录
 │  ├─ OPENCLAW_INTEGRATION_NOTES_20260419_v2.md
 │  └─ references/
-├─ docs/
-│  ├─ CONTRIBUTING.md
-│  ├─ DISCLAIMER.md
-│  ├─ RELEASE_NOTES_v1.0.0.md
-│  └─ PUBLISH_CHECKLIST.md
-├─ LICENSE.md
-└─ README.md
+│     └─ research/                       # 蒸馏依据与校准材料
+├─ CONTRIBUTING.md                       # 贡献说明
+├─ DISCLAIMER.md                        # 非官方与版权声明
+├─ LICENSE.md                           # 许可说明
+└─ README.md                            # 项目首页说明
 ```
 
 ## 角色目标
@@ -63,14 +60,7 @@ openclaw gateway restart
 - 切换成戴安娜
 - 像《识质存在》里的戴安娜那样说话
 
-## 发布建议
 
-公开发布时，建议：
-
-- **不要上传官方立绘、截图、视频、音频**，除非你明确有再分发权限。
-- 尽量以**你自己的蒸馏文本、研究摘要、配置文件**为主。
-- 保留本仓库中的 `DISCLAIMER.md` 和 `LICENSE.md`。
-- 不要暗示本项目是 CAPCOM 官方项目。
 
 ## License / 权利说明
 
